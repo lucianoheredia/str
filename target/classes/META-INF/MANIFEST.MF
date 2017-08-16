@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: app-stream-desafio
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: Luciano
+Implementation-Vendor-Id: br.com.desafio.stream
+Build-Jdk: 1.8.0_121
+Implementation-URL: http://projects.spring.io/spring-boot/app-stream-d
+ esafio/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
